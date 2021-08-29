@@ -1,7 +1,7 @@
 <h1>TakeShop</h1>
 
 
-Live-Site: [Link](https://newlifepharma.netlify.app/)<br/>
+Live-Site: [Link](https://takeshop.netlify.app/)<br/>
 
 Features:
 
